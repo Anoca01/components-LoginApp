@@ -1,4 +1,4 @@
-package br.com.loginapp
+package br.com.loginApp
 
 import android.app.Application
 import android.content.res.Configuration

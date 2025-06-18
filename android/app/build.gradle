@@ -86,9 +86,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'br.com.loginapp'
+    namespace 'br.com.loginApp'
     defaultConfig {
-        applicationId 'br.com.loginapp'
+        applicationId 'br.com.loginApp'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -1,4 +1,4 @@
-package br.com.loginapp
+package br.com.loginApp
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build
